@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 320px;
     height: 213px;
 
-    background-color: #61c1e4;
+    background-color: #7884a1;
 }
 
 .about__item:hover .about__image{
@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
 .about__image {
     width: 320px;
     height: 213px;
-    background: linear-gradient(to bottom, #c95454, #67d9af);
+    background: linear-gradient(to bottom, #4f4f51, #888a8e);
 
     transition: transform 0.2s linear;
 }
